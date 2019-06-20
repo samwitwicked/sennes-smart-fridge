@@ -1,0 +1,21 @@
+Ubiquitous computing exam
+
+* Mobile infrastructore
+* Geolocation
+
+* Context sensitive design
+
+* Sensors
+* Interoperatability
+* Wearable
+* Environmental
+* Power supply
+
+* WSN
+* Ambient assisted living
+* middleware
+* activity of daily livings
+* case studies
+* Geofencing
+
+* Read papers
